@@ -1,1 +1,1 @@
-# Elastic-net
+# Titanic logistic
